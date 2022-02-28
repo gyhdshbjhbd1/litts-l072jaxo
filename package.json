@@ -1,0 +1,12 @@
+{
+  "name": "@wcd/null.litts-l072jaxo",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve d2VUqvI8gy9MZdN8MTWi --open"
+  },
+  "dependencies": {}
+}
